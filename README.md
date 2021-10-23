@@ -1,5 +1,5 @@
 # licence-detection
-20 FPS on i3  i3-1005G1
+20 FPS on Intel® Core™ i3-1005G1
 > object_detection_yolo.py (Inference scripts)
 
 Usage : python3 object_detection_yolo.py PATH_TO_IMAGES
